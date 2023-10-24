@@ -5,7 +5,6 @@
       physics:88,
       maths:87,
       english:78,
-      image_url:'https://images.app.goo.gl/5ETom7iq1urPhhbz7'
    },
    {  
       name:'rajesh',
@@ -13,7 +12,6 @@
       physics:96,
       maths:100,
       english:95,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'moorthy',
@@ -21,7 +19,6 @@
       physics:89,
       maths:90,
       english:70,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'raja',
@@ -29,7 +26,6 @@
       physics:30,
       maths:25,
       english:40,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'usha',
@@ -37,7 +33,6 @@
       physics:67,
       maths:45,
       english:78,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'priya',
@@ -53,7 +48,6 @@
       physics:12,
       maths:67,
       english:67,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Kavitha',
@@ -61,7 +55,6 @@
       physics:78,
       maths:71,
       english:67,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Dinesh',
@@ -69,7 +62,6 @@
       physics:56,
       maths:45,
       english:67,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Hema',
@@ -77,7 +69,6 @@
       physics:71,
       maths:90,
       english:23,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Gowri',
@@ -85,7 +76,6 @@
       physics:100,
       maths:100,
       english:100,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Ram',
@@ -93,7 +83,6 @@
       physics:78,
       maths:55,
       english:47,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Murugan',
@@ -101,7 +90,6 @@
       physics:34,
       maths:89,
       english:78,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    },
    {  
       name:'Jenifer',
@@ -109,6 +97,5 @@
       physics:67,
       maths:88,
       english:90,
-      image_url:'https://images.app.goo.gl/DhdLHqjqvvdV9Bxh9'
    }
 ]
